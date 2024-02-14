@@ -9,11 +9,10 @@ joblib==0.14.1
 pillow==7.1.0
 trimesh
 pyrender
-tensorflow
 tensorboard
 torchvision
 scikit-image==0.16.2
-scikit-video
+scikit-video==1.1.11
 opencv-python
 llvmlite
 git+https://github.com/mattloper/chumpy.git
