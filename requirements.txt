@@ -13,7 +13,6 @@ tensorboard
 torchvision
 scikit-image==0.16.2
 scikit-video==1.1.11
-opencv-python
 llvmlite
 git+https://github.com/mattloper/chumpy.git
 git+https://github.com/mkocabas/yolov3-pytorch.git
