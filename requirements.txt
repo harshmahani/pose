@@ -9,9 +9,9 @@ joblib==0.14.1
 pillow==7.1.0
 trimesh
 pyrender
-tensorflow==1.15.4
-tensorboard==1.15.0
-torchvision==0.5.0
+tensorflow
+tensorboard
+torchvision
 scikit-image==0.16.2
 scikit-video==1.1.11
 opencv-python==4.1.2.30
